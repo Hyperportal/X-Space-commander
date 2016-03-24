@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X Space commander.CSharp", "X Space commander.CSharp.csproj", "{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X Space commander.CSharp", "X Space commander.CSharp.csproj", "{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10F77CB-CB51-E134-DC33-AF742DF5ADF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> 3845be02daf0e51952df9423a3481bd2f6c98288
