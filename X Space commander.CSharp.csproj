@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Boton Inicio\boton_inicio.cs" />
+    <Compile Include="Assets\Script\Interactuar.cs" />
     <Compile Include="Assets\Script\SeguimientoC.cs" />
     <Compile Include="Assets\Script\inicio.cs" />
     <Compile Include="Assets\Script\movimiento.cs" />
